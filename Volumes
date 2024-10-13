@@ -1,0 +1,7 @@
+List volumes :  docker volume ls
+
+Create a volume :  docker volume create <volume_name>
+
+Mount a volume when running a container :  docker run -d -v <volume_name>:/path/in/container <image_name>
+
+Remove a volume :  docker volume rm <volume_name>
