@@ -1,0 +1,7 @@
+List Docker images : docker images
+
+Pull an image from Docker Hub :  docker pull <image_name>:<tag>
+
+Remove an image :  docker rmi <image_id or image_name>
+
+Tag an image :  docker tag <image_id> <repository_name>:<tag>
