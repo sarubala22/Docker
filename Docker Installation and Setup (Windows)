@@ -1,0 +1,8 @@
+Docker Installation and Setup (Windows)
+Install Docker Desktop for Windows Download Docker Desktop from the official Docker site and install it.
+
+You can download it from here: Docker Desktop for Windows.
+
+Start Docker Desktop Open Docker Desktop from the Start menu. Docker will automatically start when your system boots up unless disabled in settings.
+
+Check Docker version : docker --version
