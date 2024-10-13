@@ -1,0 +1,7 @@
+List networks :  docker network ls
+
+Create a network :  docker network create <network_name>
+
+Connect a container to a network :  docker network connect <network_name> <container_id>
+
+Disconnect a container from a networ :  docker network disconnect <network_name> <container_id>
