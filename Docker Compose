@@ -1,0 +1,5 @@
+Run Docker Compose file Navigate to the folder with docker-compose.yml and run :  docker-compose up
+
+Run Docker Compose in detached mode :  docker-compose up -d
+
+Stop Docker Compose services : docker-compose down
